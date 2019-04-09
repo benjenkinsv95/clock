@@ -7,3 +7,4 @@ My React version of the [JavaScript 30](https://github.com/wesbos/JavaScript30) 
 ## Features Added
 * Different sized clock hands
 * Added center circle to cover up awkward rectangles
+* Random backgrounds
